@@ -1,9 +1,3 @@
-// ++==========================================================================================================================++
-// ||Assignment 2 Submission                                                                                                   ||
-// ||Name: Darapu Adhithya Shiva Kumar Reddy                                                                                   ||
-// ||Roll number: 22CS30019                                                                                                    ||       
-// ||Link of the pcap file: https://drive.google.com/drive/folders/1BT9e0kvHX6i-VzwbnAu_gIltqW5uKpJR?usp=drive_link            ||
-// ++==========================================================================================================================++
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -91,4 +85,5 @@ int main() {
     }
     close(sockfd);
     return 0;
+
 }
